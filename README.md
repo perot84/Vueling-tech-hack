@@ -8,7 +8,7 @@ Este repositorio consta de 4 archivos:
 2. `Machine Learning.ipynb`
   - En éste archivo se ha trabajado la predicción para los datos expuestos.
 
-3. `Presentación.docx`
+3. `Presentación.pdf`
   - En éste archivo se ha hecho una pequeña presentación del trabajo realizado.
 
 4. `template_2.json`
