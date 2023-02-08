@@ -1,6 +1,6 @@
 # Vueling-tech-hack
 
-Este repositorio consta de 4 archivos:
+Este repositorio consta de 4 archivos más el propio archivo Readme:
 
 1. `Clean and analysis.ipynb`
   - En éste archivo se ha trabajado la limpieza y análisis de los datos expuestos.
