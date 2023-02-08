@@ -11,5 +11,5 @@ Este repositorio consta de 4 archivos:
 3. `Presentación.docx`
   - En éste archivo se ha hecho una pequeña presentación del trabajo realizado.
 
-4. `y_pred2.json`
+4. `template_2.json`
   - En éste archivo se han expuesto los resultados de la predicción realizada
