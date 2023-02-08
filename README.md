@@ -2,7 +2,7 @@
 
 Este repositorio consta de 4 archivos:
 
-1. `Clean and analisis.ipynb`
+1. `Clean and analysis.ipynb`
   - En éste archivo se ha trabajado la limpieza y análisis de los datos expuestos.
 
 2. `Machine Learning.ipynb`
