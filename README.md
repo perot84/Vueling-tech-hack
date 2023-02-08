@@ -11,5 +11,5 @@ Este repositorio consta de 4 archivos más el propio archivo Readme:
 3. `Presentación.pdf`
   - En éste archivo se ha hecho una pequeña presentación del trabajo realizado.
 
-4. `template_2.json`
+4. `predictions.json`
   - En éste archivo se han expuesto los resultados de la predicción realizada
